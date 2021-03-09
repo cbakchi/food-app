@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "302867098829",
+    "firebase_url": "https://food-app-b448f.firebaseio.com",
+    "project_id": "food-app-b448f",
+    "storage_bucket": "food-app-b448f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302867098829:android:6fdf09ec50a319ac40cd84",
+        "android_client_info": {
+          "package_name": "com.neevista.food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302867098829-ptodjrefs3jqpvr1bjg35jnobhmgarc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVmmV0E7PW3WYXNvBoYROUZx3lrAZ51eA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302867098829-ptodjrefs3jqpvr1bjg35jnobhmgarc6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
